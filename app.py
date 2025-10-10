@@ -22,4 +22,3 @@ while True:
         model=LLM_MODEL, contents=user_query
     )
     print(response.text)
-git remote add origin https://github.com/KhushalDaiya/khushal.git
